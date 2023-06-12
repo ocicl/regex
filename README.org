@@ -1,0 +1,9 @@
+* regex
+
+Common Lisp regex package
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/michaelw/regex.git |
+| commit  | fbc9a9f                                   |
+| systems | regex                                     |
+|---------+-------------------------------------------|
